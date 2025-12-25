@@ -1,1 +1,1 @@
-# SCC--Website
+# SCC-Website
